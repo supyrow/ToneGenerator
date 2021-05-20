@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "toner-revb-SMD-rescue")(type "Legacy")(uri "${KIPRJMOD}/toner-revb-SMD-rescue.lib")(options "")(descr ""))
+)
