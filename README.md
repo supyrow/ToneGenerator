@@ -1,1 +1,1 @@
-# toner-smd
+# ToneGeneratorSMD
