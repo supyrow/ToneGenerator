@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = Mon 26 Feb 2018 05:32:35 PM EST
+
+BeginCmp
+TimeStamp = 5AA6341C
+Path = /5A8F4BBE
+Reference = R9;
+ValeurCmp = 2K2;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A981D25
+Path = /5A93BAA8
+Reference = D3;
+ValeurCmp = TVS @ 480V;
+IdModule  = Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P7.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA63304
+Path = /5A8F4226
+Reference = BT1;
+ValeurCmp = 9V Battery Snap;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA63362
+Path = /5A8F493D
+Reference = D1;
+ValeurCmp = 1N4001G;
+IdModule  = Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA63381
+Path = /5A8F4890
+Reference = D2;
+ValeurCmp = 1N4148-TP;
+IdModule  = Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC6AF4C
+Path = /5A8F4785
+Reference = J1;
+ValeurCmp = OUTPUT;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC6AF00
+Path = /5A8F4A58
+Reference = LD1;
+ValeurCmp = Bi-Color LED;
+IdModule  = LED_THT:LED_D5.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633B7
+Path = /5A8F4D1E
+Reference = R1;
+ValeurCmp = 620K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633C5
+Path = /5A8F4D6A
+Reference = R2;
+ValeurCmp = 2K2;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633D3
+Path = /5A8F4CCD
+Reference = R3;
+ValeurCmp = 100K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633E2
+Path = /5A8F4E60
+Reference = R5;
+ValeurCmp = 200K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633F0
+Path = /5A8F4E0B
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA633FF
+Path = /5A8F4AFD
+Reference = R7;
+ValeurCmp = 27K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AA6340D
+Path = /5A8F4AD5
+Reference = R8;
+ValeurCmp = 22K;
+IdModule  = Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AB12E76
+Path = /5A8F4021
+Reference = SW1;
+ValeurCmp = SPDT;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A96277C
+Path = /5A8F468E
+Reference = SW2;
+ValeurCmp = SPDT;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AB12EAF
+Path = /5A8F7B6E
+Reference = U1;
+ValeurCmp = 4000 SERIES?;
+IdModule  = Package_DIP:DIP-14_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A981CD7
+Path = /5A8F4F3A
+Reference = C1;
+ValeurCmp = 1000pF @ 100V;
+IdModule  = Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A981CEB
+Path = /5A8F4FBE
+Reference = C2;
+ValeurCmp = 100nF @ 50V;
+IdModule  = Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A981CFF
+Path = /5A8F4F74
+Reference = C3;
+ValeurCmp = 100nF @ 250V;
+IdModule  = Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4;
+EndCmp
+
+EndListe
